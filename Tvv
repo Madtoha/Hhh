@@ -1,0 +1,1028 @@
+{
+  "name": "dooballkub-รายวัน",
+  "author": "DooFree-30 ต.ค. 2567 16:27",
+  "info": "DooBallKub-Ontime ",
+  "image": "https://i.postimg.cc/pXY4MXR7/DOOBALLKUB-01-Logo.jpg",
+  "stations": [
+    {
+      "name": "True Premier Football 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1818.png",
+      "url": "https://dooballkub.com/live/?epl1"
+    },
+    {
+      "name": "True Premier Football 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1819.png",
+      "url": "https://dooballkub.com/live/?epl2"
+    },
+    {
+      "name": "True Premier Football 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1820.png",
+      "url": "https://dooballkub.com/live/?epl3"
+    },
+    {
+      "name": "True Premier Football 4",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1821.png",
+      "url": "https://dooballkub.com/live/?epl4"
+    },
+    {
+      "name": "True Premier Football 5",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1822.png",
+      "url": "https://dooballkub.com/live/?epl5"
+    },
+    {
+      "name": "True Premier Football 6",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4603.png",
+      "url": "https://dooballkub.com/live/?epl6"
+    },
+    {
+      "name": "True Premier Football 7",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4604.png",
+      "url": "https://dooballkub.com/live/?epl7"
+    },
+    {
+      "name": "True Premier Football 8",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4605.png",
+      "url": "https://dooballkub.com/live/?epl8"
+    },
+    {
+      "name": "beIN Sports 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--138.png",
+      "url": "https://dooballkub.com/live/?bein1"
+    },
+    {
+      "name": "beIN Sports 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--139.png",
+      "url": "https://dooballkub.com/live/?bein2"
+    },
+    {
+      "name": "beIN Sports 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--140.png",
+      "url": "https://dooballkub.com/live/?bein3"
+    },
+    {
+      "name": "beIN Sports 4",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--206.png",
+      "url": "https://dooballkub.com/live/?bein4"
+    },
+    {
+      "name": "beIN Sports 5",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--207.png",
+      "url": "https://dooballkub.com/live/?bein5"
+    },
+    {
+      "name": "beIN Sports 6",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--208.png",
+      "url": "https://dooballkub.com/live/?bein6"
+    },
+    {
+      "name": "beIN Sports 7",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--209.png",
+      "url": "https://dooballkub.com/live/?bein7"
+    },
+    {
+      "name": "true Sport HD",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4101.png",
+      "url": "https://dooballkub.com/live/?truesporthd"
+    },
+    {
+      "name": "true Sport HD 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4102.png",
+      "url": "https://dooballkub.com/live/?truesporthd2"
+    },
+    {
+      "name": "true Sport HD 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4103.png",
+      "url": "https://dooballkub.com/live/?truesporthd3"
+    },
+    {
+      "name": "true Sport HD 4",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4104.png",
+      "url": "https://dooballkub.com/live/?truesporthd4"
+    },
+    {
+      "name": "true Sport 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1071.png",
+      "url": "https://dooballkub.com/live/?truesport2"
+    },
+    {
+      "name": "true Sport 7",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1076.png",
+      "url": "https://dooballkub.com/live/?truesport7"
+    },
+    {
+      "name": "True ID Station",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4512.png",
+      "url": "https://dooballkub.com/live/?trueidstation"
+    },
+    {
+      "name": "FOX Sports HD",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--379.png",
+      "url": "https://dooballkub.com/live/?foxsporthd"
+    },
+    {
+      "name": "FOX Sports 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--130.png",
+      "url": "https://dooballkub.com/live/?foxsport2"
+    },
+    {
+      "name": "FOX Sports 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--131.png",
+      "url": "https://dooballkub.com/live/?foxsport3"
+    },
+    {
+      "name": "Golf Channel Thailand",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1243.png",
+      "url": "https://dooballkub.com/live/?golfchannel"
+    },
+    {
+      "name": "true Tennis",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4101.png",
+      "url": "https://dooballkub.com/live/?truetennis"
+    },
+    {
+      "name": "true NBA",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4606.png",
+      "url": "https://dooballkub.com/live/?truenba"
+    },
+    {
+      "name": "CH3 HD",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4506.png",
+      "url": "https://dooballkub.com/live/?3hd"
+    },
+    {
+      "name": "CH7 HD",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4501.png",
+      "url": "https://dooballkub.com/live/?7hd"
+    },
+    {
+      "name": "Thairath TV 32 HD",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4500.png",
+      "url": "https://dooballkub.com/live/?thairath"
+    },
+    {
+      "name": "Workpoint",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4505.png",
+      "url": "https://dooballkub.com/live/?workpoint"
+    },
+    {
+      "name": "PPTV HD 36",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1593.png",
+      "url": "https://dooballkub.com/live/?pptv"
+    },
+    {
+      "name": "AMARIN 34 HD",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1355.png",
+      "url": "https://dooballkub.com/live/?amarin"
+    },
+    {
+      "name": "ONE HD 31",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4523.png",
+      "url": "https://dooballkub.com/live/?onehd"
+    },
+    {
+      "name": "MONO 29",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4524.png",
+      "url": "https://dooballkub.com/live/?mono29"
+    },
+    {
+      "name": "MONO PLUS",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4525.png",
+      "url": "https://dooballkub.com/live/?monoplus"
+    },
+    {
+      "name": "Thai PBS",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4504.png",
+      "url": "https://dooballkub.com/live/?thaipbs"
+    },
+    {
+      "name": "CH8",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4517.png",
+      "url": "https://dooballkub.com/live/?ch8"
+    },
+    {
+      "name": "GMM 25",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4518.png",
+      "url": "https://dooballkub.com/live/?gmm25"
+    },
+    {
+      "name": "true4U",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4502.png",
+      "url": "https://dooballkub.com/live/?true4u"
+    },
+    {
+      "name": "VOICE TV",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4522.png",
+      "url": "https://dooballkub.com/live/?voicetv"
+    },
+    {
+      "name": "JKN 18",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4519.png",
+      "url": "https://dooballkub.com/live/?newtv"
+    },
+    {
+      "name": "NBT",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4507.png",
+      "url": "https://dooballkub.com/live/?nbt"
+    },
+    {
+      "name": "CH5",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1354.png",
+      "url": "https://dooballkub.com/live/?5hd"
+    },
+    {
+      "name": "Nation TV",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4521.png",
+      "url": "https://dooballkub.com/live/?nation"
+    },
+    {
+      "name": "TNN 24",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4520.png",
+      "url": "https://dooballkub.com/live/?tnn"
+    },
+    {
+      "name": "MCOT HD",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4503.png",
+      "url": "https://dooballkub.com/live/?mcot"
+    },
+    {
+      "name": "beIN Sports Laliga",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--363.png",
+      "url": "https://dooballkub.com/live/?beinsportlaliga"
+    },
+    {
+      "name": "MUTV",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--114.png",
+      "url": "https://dooballkub.com/live/?mutv"
+    },
+    {
+      "name": "LFCTV",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--112.png",
+      "url": "https://dooballkub.com/live/?lfctv"
+    },
+    {
+      "name": "CHELSEA TV",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--115.png",
+      "url": "https://dooballkub.com/live/?chelseatv"
+    },
+    {
+      "name": "Sky Sports Main Event",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--663.png",
+      "url": "https://dooballkub.com/live/?skysportmainevent"
+    },
+    {
+      "name": "Sky Sports Cricket",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--664.png",
+      "url": "https://dooballkub.com/live/?skysportclicket"
+    },
+    {
+      "name": "Sky Sports Action",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--93.png",
+      "url": "https://dooballkub.com/live/?skysportaction"
+    },
+    {
+      "name": "Sky Sports Golf",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--94.png",
+      "url": "https://dooballkub.com/live/?skysportgolf"
+    },
+    {
+      "name": "Sky Sports Premier League",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",
+      "url": "https://dooballkub.com/live/?skysportpremiere"
+    },
+    {
+      "name": "Sky Sports Football",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",
+      "url": "https://dooballkub.com/live/?skysportfootball"
+    },
+    {
+      "name": "Sky Sports F1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--118.png",
+      "url": "https://dooballkub.com/live/?skysportf1"
+    },
+    {
+      "name": "Sky Sports Mix",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--123.png",
+      "url": "https://dooballkub.com/live/?skysportmix"
+    },
+    {
+      "name": "BT Sport 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",
+      "url": "https://dooballkub.com/live/?btsport1"
+    },
+    {
+      "name": "BT Sport 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--100.png",
+      "url": "https://dooballkub.com/live/?btsport2"
+    },
+    {
+      "name": "BT Sport 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--108.png",
+      "url": "https://dooballkub.com/live/?btsport3"
+    },
+    {
+      "name": "BT Sport ESPN",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--98.png",
+      "url": "https://dooballkub.com/live/?btsportespn"
+    },
+    {
+      "name": "TV3 Sport",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--489.png",
+      "url": "https://dooballkub.com/live/?tv3sport1"
+    },
+    {
+      "name": "TV3 MAX",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",
+      "url": "https://dooballkub.com/live/?tv3max"
+    },
+    {
+      "name": "Sport TV 1 (PT)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+      "url": "https://dooballkub.com/live/?sporttv1"
+    },
+    {
+      "name": "Sport TV 2 (PT)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",
+      "url": "https://dooballkub.com/live/?sporttv2"
+    },
+    {
+      "name": "Sport TV 3 (PT)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",
+      "url": "https://dooballkub.com/live/?sporttv3"
+    },
+    {
+      "name": "Sport TV 4 (PT)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",
+      "url": "https://dooballkub.com/live/?sporttv4"
+    },
+    {
+      "name": "Sky Bundesliga",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--154.png",
+      "url": "https://dooballkub.com/live/?skysportbundesliga1"
+    },
+    {
+      "name": "SPORTV",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",
+      "url": "https://dooballkub.com/live/?sportv"
+    },
+    {
+      "name": "SPORTV 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1240.png",
+      "url": "https://dooballkub.com/live/?sportv2"
+    },
+    {
+      "name": "beIN Sports 2 HD (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--753.png",
+      "url": "https://dooballkub.com/live/?beinsportsarabia2hd"
+    },
+    {
+      "name": "beIN Sports 3 HD (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--754.png",
+      "url": "https://dooballkub.com/live/?beinsportsarabia3hd"
+    },
+    {
+      "name": "Sport digital",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",
+      "url": "https://dooballkub.com/live/?sportdigital"
+    },
+    {
+      "name": "C MORE LIVE HD",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--484.png",
+      "url": "https://dooballkub.com/live/?cmorelivehd"
+    },
+    {
+      "name": "C MORE FOTBOLL",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--482.png",
+      "url": "https://dooballkub.com/live/?cmorefootball"
+    },
+    {
+      "name": "Fox Sports 1 (US)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--60.png",
+      "url": "https://dooballkub.com/live/?foxsports1usa"
+    },
+    {
+      "name": "DIGI Sport 1 (RO)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",
+      "url": "https://dooballkub.com/live/?digisport1romania"
+    },
+    {
+      "name": "DIGI Sport 2 (RO)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--881.png",
+      "url": "https://dooballkub.com/live/?digisport2romania"
+    },
+    {
+      "name": "Areana Sport 1 (SR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",
+      "url": "https://dooballkub.com/live/?arenasport1serbia"
+    },
+    {
+      "name": "Areana Sport 2 (SR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--320.png",
+      "url": "https://dooballkub.com/live/?arenasport2serbia"
+    },
+    {
+      "name": "Areana Sport 3 (SR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--321.png",
+      "url": "https://dooballkub.com/live/?arenasport3serbia"
+    },
+    {
+      "name": "Canal 9 (DK)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--446.png",
+      "url": "https://dooballkub.com/live/?canal9denmark"
+    },
+    {
+      "name": "Sport Klub 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png",
+      "url": "https://dooballkub.com/live/?sportklub2slovenia"
+    },
+    {
+      "name": "Sport Klub 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png",
+      "url": "https://dooballkub.com/live/?sportklub3slovenia"
+    },
+    {
+      "name": "6eren",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1133.png",
+      "url": "https://dooballkub.com/live/?6eren"
+    },
+    {
+      "name": "ZIGGO Sport Select",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+      "url": "https://dooballkub.com/live/?ziggosportselect"
+    },
+    {
+      "name": "ZIGGO Sport Voetbal",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--286.png",
+      "url": "https://dooballkub.com/live/?ziggosportvoetbal"
+    },
+    {
+      "name": "ESPN Brasil",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1232.png",
+      "url": "https://dooballkub.com/live/?espnbrazil"
+    },
+    {
+      "name": "Eir Sport 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--213.png",
+      "url": "https://dooballkub.com/live/?eirsport1"
+    },
+    {
+      "name": "Sport Klub 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",
+      "url": "https://dooballkub.com/live/?sportklub1slovenia"
+    },
+    {
+      "name": "Sport Klub 4",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--336.png",
+      "url": "https://dooballkub.com/live/?sportklub4slovenia"
+    },
+    {
+      "name": "PFC",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1446.png",
+      "url": "https://dooballkub.com/live/?pfc"
+    },
+    {
+      "name": "GOL",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--369.png",
+      "url": "https://dooballkub.com/live/?gol"
+    },
+    {
+      "name": "Fox Sports 1 (NL)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",
+      "url": "https://dooballkub.com/live/?foxsport1nl"
+    },
+    {
+      "name": "T Sports Channel",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4511.png",
+      "url": "https://dooballkub.com/live/?tsports"
+    },
+    {
+      "name": "ESPN (US)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--135.png",
+      "url": "https://dooballkub.com/live/?espnus"
+    },
+    {
+      "name": "beIN Sports 1 HD (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--752.png",
+      "url": "https://dooballkub.com/live/?beinsportsarabia1hd"
+    },
+    {
+      "name": "Fox Sports 2 (US)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--61.png",
+      "url": "https://dooballkub.com/live/?foxsports2usa"
+    },
+    {
+      "name": "Fox Sports 2 (NL)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--242.png",
+      "url": "https://dooballkub.com/live/?foxsport2nl"
+    },
+    {
+      "name": "Fox Sports 4 (NL)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--244.png",
+      "url": "https://dooballkub.com/live/?foxsport4nl"
+    },
+    {
+      "name": "DIGI Sport 3 (RO)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--882.png",
+      "url": "https://dooballkub.com/live/?digisport3romania"
+    },
+    {
+      "name": "DIGI Sport 4 (RO)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--883.png",
+      "url": "https://dooballkub.com/live/?digisport4romania"
+    },
+    {
+      "name": "EURO Sport",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--890.png",
+      "url": "https://dooballkub.com/live/?eurosport"
+    },
+    {
+      "name": "DIEMA Sport",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1059.png",
+      "url": "https://dooballkub.com/live/?diemasport1"
+    },
+    {
+      "name": "Arena Sport 4 (SR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--322.png",
+      "url": "https://dooballkub.com/live/?arenasport4serbia"
+    },
+    {
+      "name": "Sport 1+",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--149.png",
+      "url": "https://dooballkub.com/live/?sport1plus"
+    },
+    {
+      "name": "beIN Sports 1 (FR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+      "url": "https://dooballkub.com/live/?beinsport1fr"
+    },
+    {
+      "name": "beIN Sports 2 (FR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--401.png",
+      "url": "https://dooballkub.com/live/?beinsport2fr"
+    },
+    {
+      "name": "beIN Max 4 (FR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",
+      "url": "https://dooballkub.com/live/?beinmax4fr"
+    },
+    {
+      "name": "beIN Max 5 (FR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--404.png",
+      "url": "https://dooballkub.com/live/?beinmax5fr"
+    },
+    {
+      "name": "beIN Max 6 (FR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--405.png",
+      "url": "https://dooballkub.com/live/?beinmax6fr"
+    },
+    {
+      "name": "true Music",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4105.png",
+      "url": "https://dooballkub.com/live/?truemusic"
+    },
+    {
+      "name": "TV5 MONDE",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1528.png",
+      "url": "https://dooballkub.com/live/?tv5monde"
+    },
+    {
+      "name": "Premier Sports 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png",
+      "url": "https://dooballkub.com/live/?premiersports1"
+    },
+    {
+      "name": "SuperSport 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--691.png",
+      "url": "https://dooballkub.com/live/?supersport1al"
+    },
+    {
+      "name": "SuperSport 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",
+      "url": "https://dooballkub.com/live/?supersport2al"
+    },
+    {
+      "name": "NOVA Sports",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1058.png",
+      "url": "https://dooballkub.com/live/?novasport"
+    },
+    {
+      "name": "Fox Sports 3 (NL)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--243.png",
+      "url": "https://dooballkub.com/live/?foxsport3nl"
+    },
+    {
+      "name": "Fox Sports 5 (NL)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--245.png",
+      "url": "https://dooballkub.com/live/?foxsport5nl"
+    },
+    {
+      "name": "Free Sport (UK)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--817.png",
+      "url": "https://dooballkub.com/live/?freesportuk"
+    },
+    {
+      "name": "Canal 11 (PT)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",
+      "url": "https://dooballkub.com/live/?canal11pt"
+    },
+    {
+      "name": "Eleven Sports 1 (PT)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--631.png",
+      "url": "https://dooballkub.com/live/?elevensports1pt"
+    },
+    {
+      "name": "Telekom Sport 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--884.png",
+      "url": "https://dooballkub.com/live/?telekomsport1ro"
+    },
+    {
+      "name": "VIASAT FOTBOLL",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--494.png",
+      "url": "https://dooballkub.com/live/?viasatfotboll"
+    },
+    {
+      "name": "CANAL+",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--420.png",
+      "url": "https://dooballkub.com/live/?canalpluspl"
+    },
+    {
+      "name": "beIN Sports 1 (AU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--469.png",
+      "url": "https://dooballkub.com/live/?beinsports1au"
+    },
+    {
+      "name": "beIN Sports 2 (AU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--470.png",
+      "url": "https://dooballkub.com/live/?beinsports2au"
+    },
+    {
+      "name": "beIN Sports 1 (TU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+      "url": "https://dooballkub.com/live/?beinsports1tu"
+    },
+    {
+      "name": "beIN Sports 2 (TU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",
+      "url": "https://dooballkub.com/live/?beinsports2tu"
+    },
+    {
+      "name": "Sky Sports Arena",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--92.png",
+      "url": "https://dooballkub.com/live/?skysportarena"
+    },
+    {
+      "name": "Sky Sports 1 (DE)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--155.png",
+      "url": "https://dooballkub.com/live/?skysport1de"
+    },
+    {
+      "name": "Astro Supersport (MY)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",
+      "url": "https://dooballkub.com/live/?astrosupersport"
+    },
+    {
+      "name": "Astro Supersport 2 (MY)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png",
+      "url": "https://dooballkub.com/live/?astrosupersport2"
+    },
+    {
+      "name": "Astro Supersport 3 (MY)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--255.png",
+      "url": "https://dooballkub.com/live/?astrosupersport3"
+    },
+    {
+      "name": "Astro Supersport 4 (MY)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--256.png",
+      "url": "https://dooballkub.com/live/?astrosupersport4"
+    },
+    {
+      "name": "UEFA TV",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4513.png",
+      "url": "https://dooballkub.com/live/?uefatv"
+    },
+    {
+      "name": "FOX Sports Asia",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1043.png",
+      "url": "https://dooballkub.com/live/?foxsportasia1"
+    },
+    {
+      "name": "FOX Sports Asia 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1044.png",
+      "url": "https://dooballkub.com/live/?foxsportasia2"
+    },
+    {
+      "name": "FOX Sports Asia 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1045.png",
+      "url": "https://dooballkub.com/live/?foxsportasia3"
+    },
+    {
+      "name": "Arena Sport 5 (SR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4550.png",
+      "url": "https://dooballkub.com/live/?arenasport5sr"
+    },
+    {
+      "name": "Sport Klub 5",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4551.png",
+      "url": "https://dooballkub.com/live/?sportklub5"
+    },
+    {
+      "name": "Sport Klub 6",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4553.png",
+      "url": "https://dooballkub.com/live/?sportklub6"
+    },
+    {
+      "name": "DIEMA Sport 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4553.png",
+      "url": "https://dooballkub.com/live/?diemasport2"
+    },
+    {
+      "name": "ESPN (BR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4554.png",
+      "url": "https://dooballkub.com/live/?espnbr"
+    },
+    {
+      "name": "ESPN 2 (BR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4555.png",
+      "url": "https://dooballkub.com/live/?espn2br"
+    },
+    {
+      "name": "ESPN Extra (BR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4556.png",
+      "url": "https://dooballkub.com/live/?espnextrabr"
+    },
+    {
+      "name": "beIN Sports 3 (AU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4557.png",
+      "url": "https://dooballkub.com/live/?bein3au"
+    },
+    {
+      "name": "SuperSport 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4558.png",
+      "url": "https://dooballkub.com/live/?supersport3al"
+    },
+    {
+      "name": "Sport TV 5 (PT)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4559.png",
+      "url": "https://dooballkub.com/live/?sporttv5"
+    },
+    {
+      "name": "Eleven Sports 2 (PT)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4560.png",
+      "url": "https://dooballkub.com/live/?elevensport2pt"
+    },
+    {
+      "name": "Eleven Sports 3 (PT)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4561.png",
+      "url": "https://dooballkub.com/live/?elevensport3pt"
+    },
+    {
+      "name": "Telekom Sport 2 (RO)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--885.png",
+      "url": "https://dooballkub.com/live/?telekomsport2ro"
+    },
+    {
+      "name": "Telekom Sport 3 (RO)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--886.png",
+      "url": "https://dooballkub.com/live/?telekomsport3ro"
+    },
+    {
+      "name": "Astro Arena",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4568.png",
+      "url": "https://dooballkub.com/live/?astroarena"
+    },
+    {
+      "name": "beIN Sports 3 (TU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4569.png",
+      "url": "https://dooballkub.com/live/?bein3tu"
+    },
+    {
+      "name": "beIN Sports 4 (TU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4570.png",
+      "url": "https://dooballkub.com/live/?bein4tu"
+    },
+    {
+      "name": "SuperSport EPL",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4571.png",
+      "url": "https://dooballkub.com/live/?supersportepl"
+    },
+    {
+      "name": "SuperSport Football",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4572.png",
+      "url": "https://dooballkub.com/live/?supersportfootball"
+    },
+    {
+      "name": "match! football 1 (RU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--733.png",
+      "url": "https://dooballkub.com/live/?matchfootball1"
+    },
+    {
+      "name": "match! football 2 (RU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--734.png",
+      "url": "https://dooballkub.com/live/?matchfootball2"
+    },
+    {
+      "name": "match! football 3 (RU)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--735.png",
+      "url": "https://dooballkub.com/live/?matchfootball3"
+    },
+    {
+      "name": "bein 4 (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--755.png",
+      "url": "https://dooballkub.com/live/?bein4arab"
+    },
+    {
+      "name": "bein 5 (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--756.png",
+      "url": "https://dooballkub.com/live/?bein5arab"
+    },
+    {
+      "name": "bein sports premium 1 (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--761.png",
+      "url": "https://dooballkub.com/live/?bein1premiumarab"
+    },
+    {
+      "name": "bein sports premium 2 (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--759.png",
+      "url": "https://dooballkub.com/live/?bein2premiumarab"
+    },
+    {
+      "name": "bein sports premium 3 (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--760.png",
+      "url": "https://dooballkub.com/live/?bein3premiumarab"
+    },
+    {
+      "name": "bein sports english 1 (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1166.png",
+      "url": "https://dooballkub.com/live/?bein1englisharab"
+    },
+    {
+      "name": "bein sports english 2 (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1167.png",
+      "url": "https://dooballkub.com/live/?bein2englisharab"
+    },
+    {
+      "name": "bein sports english 3 (AR)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1168.png",
+      "url": "https://dooballkub.com/live/?bein3englisharab"
+    },
+    {
+      "name": "Star Sport Select 1 (ID)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--230.png",
+      "url": "https://dooballkub.com/live/?starsportselect1id"
+    },
+    {
+      "name": "Start Sport 1 (ID)",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--226.png",
+      "url": "https://dooballkub.com/live/?starsport1id"
+    },
+    {
+      "name": "Sport1 HD",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--166.png",
+      "url": "https://dooballkub.com/live/?sport1hd"
+    },
+    {
+      "name": "Orange Sport 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1513.png",
+      "url": "https://dooballkub.com/live/?orangesport1ro"
+    },
+    {
+      "name": "Orange Sport 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1514.png",
+      "url": "https://dooballkub.com/live/?orangesport2ro"
+    },
+    {
+      "name": "Orange Sport 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1515.png",
+      "url": "https://dooballkub.com/live/?orangesport3ro"
+    },
+    {
+      "name": "Orange Sport 4",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1516.png",
+      "url": "https://dooballkub.com/live/?orangesport4ro"
+    },
+    {
+      "name": "Baygon Hero 1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png",
+      "url": "https://dooballkub.com/live/?baygonhero1"
+    },
+    {
+      "name": "Baygon Hero 2",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4515.png",
+      "url": "https://dooballkub.com/live/?baygonhero2"
+    },
+    {
+      "name": "Baygon Hero 3",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4516.png",
+      "url": "https://dooballkub.com/live/?baygonhero3"
+    },
+    {
+      "name": "Baygon Hero 4",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4542.png",
+      "url": "https://dooballkub.com/live/?baygonhero4"
+    },
+    {
+      "name": "Baygon Hero 5",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4543.png",
+      "url": "https://dooballkub.com/live/?baygonhero5"
+    },
+    {
+      "name": "Baygon Hero 6",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4544.png",
+      "url": "https://dooballkub.com/live/?baygonhero6"
+    },
+    {
+      "name": "Baygon Hero 7",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4545.png",
+      "url": "https://dooballkub.com/live/?baygonhero7"
+    },
+    {
+      "name": "Baygon Hero 8",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4546.png",
+      "url": "https://dooballkub.com/live/?baygonhero8"
+    },
+    {
+      "name": "Baygon Hero 9",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4547.png",
+      "url": "https://dooballkub.com/live/?baygonhero9"
+    },
+    {
+      "name": "Baygon Hero 10",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4548.png",
+      "url": "https://dooballkub.com/live/?baygonhero10"
+    },
+    {
+      "name": "Baygon Hero 11",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4593.png",
+      "url": "https://dooballkub.com/live/?baygonhero11"
+    },
+    {
+      "name": "Baygon Hero 12",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4594.png",
+      "url": "https://dooballkub.com/live/?baygonhero12"
+    },
+    {
+      "name": "Baygon Hero 13",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4595.png",
+      "url": "https://dooballkub.com/live/?baygonhero13"
+    },
+    {
+      "name": "Baygon Hero 14",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4596.png",
+      "url": "https://dooballkub.com/live/?baygonhero14"
+    },
+    {
+      "name": "Baygon Hero 15",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4597.png",
+      "url": "https://dooballkub.com/live/?baygonhero15"
+    },
+    {
+      "name": "Baygon Hero 16",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4598.png",
+      "url": "https://dooballkub.com/live/?baygonhero16"
+    },
+    {
+      "name": "Baygon Hero 17",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4599.png",
+      "url": "https://dooballkub.com/live/?baygonhero17"
+    },
+    {
+      "name": "Baygon Hero 18",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4600.png",
+      "url": "https://dooballkub.com/live/?baygonhero18"
+    },
+    {
+      "name": "Baygon Hero 19",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4601.png",
+      "url": "https://dooballkub.com/live/?baygonhero19"
+    },
+    {
+      "name": "Baygon Hero 20",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4602.png",
+      "url": "https://dooballkub.com/live/?baygonhero20"
+    },
+    {
+      "name": "Baygon Hero 21",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4613.png",
+      "url": "https://dooballkub.com/live/?baygonhero21"
+    },
+    {
+      "name": "Baygon Hero 22",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4614.png",
+      "url": "https://dooballkub.com/live/?baygonhero22"
+    },
+    {
+      "name": "Baygon Hero 23",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4615.png",
+      "url": "https://dooballkub.com/live/?baygonhero23"
+    },
+    {
+      "name": "Baygon Hero 24",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4616.png",
+      "url": "https://dooballkub.com/live/?baygonhero24"
+    },
+    {
+      "name": "Baygon Hero 25",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4617.png",
+      "url": "https://dooballkub.com/live/?baygonhero25"
+    }
+  ]
+}
